@@ -80,9 +80,7 @@ Total Loss = Classification Loss + Bounding Box Loss
 
 ## 🔍 Qualitative Results
 
-<img src="Output/output1.png" width="350"/>
-
-<img src="Output/output2.png" width="350"/>
+<img src="Output/output1.png" width="350"/> <img src="Output/output2.png" width="350"/>
 
 
 ---
