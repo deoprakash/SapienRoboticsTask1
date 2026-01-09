@@ -76,6 +76,16 @@ Multi-task loss:
 ```
 Total Loss = Classification Loss + Bounding Box Loss
 ```
+---
+
+## 🔍 Qualitative Results
+
+### Person Detection
+<img src="Output/output1.png" width="350"/>
+
+### Misclassification Example
+<img src="Output/output2.png" width="350"/>
+
 
 ---
 
