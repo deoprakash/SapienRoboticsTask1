@@ -20,7 +20,7 @@ The system:
 ## 2. Dataset
 
 - **Dataset:** PASCAL VOC 2012  
-- **Source:** Kaggle (`huanghanchina/pascal-voc-2012`)
+- **Source:** Kaggle [huanghanchina/pascal-voc-2012](https://www.kaggle.com/datasets/huanghanchina/pascal-voc-2012)
 
 ### Selected Classes
 ```
